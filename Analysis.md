@@ -1,5 +1,5 @@
-  <div align="align">
-  Determing Which BB Gun To Use
-  </div>
+<p align="center">
+Determing Which BB Gun To Use
+</p>
   
 
