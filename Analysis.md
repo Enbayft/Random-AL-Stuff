@@ -24,8 +24,11 @@ The fleet’s air-based damage is decreased by 12%, air-based damage taken is in
 Status: Loss of Air Supremacy
 The fleet’s air-based damage is decreased by 20%, air-based damage taken is increased by 10%, hit and evasion is decreased by 8% (fire and flooding chances are not affected).
 
-Status: No Contention
+Status: Neutral Air Space
 No effects.
+
+Note 1: If the "air supremacy value" is higher than the recommended value on a given map, air supremacy is ensured.
+Note 2: if a ship sinks, the value will decrease accordingly. Fleets retreating follows the same rule.
 
 ## Part 2 - New Enemies
 Anti-Air Warship – The enemy will apply AA fire against friendly carrier planes within a large range.
