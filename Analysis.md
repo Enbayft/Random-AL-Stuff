@@ -28,6 +28,7 @@ Status: Neutral Air Space
 No effects.
 
 Note 1: If the "air supremacy value" is higher than the recommended value on a given map, air supremacy is ensured.
+
 Note 2: if a ship sinks, the value will decrease accordingly. Fleets retreating follows the same rule.
 
 ## Part 2 - New Enemies
