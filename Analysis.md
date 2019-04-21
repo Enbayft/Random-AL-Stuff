@@ -55,3 +55,7 @@ Repair Ship – There are two variants: S and A. S-type will repair a singular e
 When a battleship fires an armor-piercing round (excluding skills that add a penetration effect or has a penetration value) and it hits an enemy with heavy armor there is a chance to penetrate the armor, enemies affected by armor-penetration will take increased shell damage by a percentage.
 
 In addition, AP damage is getting buffed against light armor enemies.
+
+![DD](https://azurlane.koumakan.jp/w/images/b/b8/LaffeyKaiChibi.png "Laffey Kai") - **[USS Laffey Kai](https://azurlane.koumakan.jp/Laffey#Retrofit)**
+
+[![DD](https://azurlane.koumakan.jp/w/images/b/b8/LaffeyKaiChibi.png "Laffey Kai")](https://azurlane.koumakan.jp/Laffey#Retrofit)
