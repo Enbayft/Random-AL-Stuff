@@ -58,4 +58,4 @@ In addition, AP damage is getting buffed against light armor enemies.
 
 ![DD](https://azurlane.koumakan.jp/w/images/b/b8/LaffeyKaiChibi.png "Laffey Kai") - **[USS Laffey Kai](https://azurlane.koumakan.jp/Laffey#Retrofit)**
 
-[![DD](https://azurlane.koumakan.jp/w/images/b/b8/LaffeyKaiChibi.png "Laffey Kai")](https://azurlane.koumakan.jp/Laffey#Retrofit)
+[![AA](https://azurlane.koumakan.jp/w/images/b/b8/LaffeyKaiChibi.png "Laffey Kai")](https://azurlane.koumakan.jp/Laffey#Retrofit)
