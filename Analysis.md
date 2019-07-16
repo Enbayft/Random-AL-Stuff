@@ -82,6 +82,8 @@ Their damage values:
 | Minneapolis SKC | --- | --- | --- | --- |
 | Minneapolis 138.6mm | --- | --- | --- | --- |
 
+Firing cycle here denotes the total time it takes to fire. That is, it involves a CA's absolute cooldown, the gun's volley time, the reload modifier, and the gun's reload time.
+
 ## Initial HP Pool Clear Time Analysis
 
 We will assume a collective enemy health pool of 100,000. This pool will be split into light/medium/heavy armor proportionally four times. We assume that the CAs will focus on the light enemies first and then move to medium and finally to heavy. We will ignore any fleet composiition for this initial analysis. Pierce or burn will also be ignored.
