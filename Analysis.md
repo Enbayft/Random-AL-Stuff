@@ -58,7 +58,7 @@ We will employ two different types of CAs, not because of their skills, but beca
 
 ## Preview
 
-While utiizing the raw base stats of the MLE and SKC are solid, we require more practical approaches in analyzing damage. Which is where Takao and Minneapolis come in. We will use their stats and their own coefficients (differing multiplier to the gun's own coefficient) to get the adjusted numbers. Following that, we will also use their secondary damage/DPS. 
+While utiizing the raw base stats of the MLE and SKC are solid, we require more practical approaches in analyzing damage. Which is where Takao and Minneapolis come in. We will use their stats and their own coefficients (differing multiplier to the gun's own coefficient) to get the adjusted numbers. Following that, we will also use their secondary damage/DPS. We will also ignore critical damage.
 
 This paper will not spend time in providing the various formulas and numbers. Such values can be grabbed from Azur Lane's EN wiki. Combat page for formulas. Each ships' individual pages for their values. And the various equipment pages for torpedo/secondary gun/auxiliary information.
 
