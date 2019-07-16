@@ -37,7 +37,7 @@ At this point, one might prefer the SKC, but let’s pay attention to their armo
 
 | Name | Light Damage | Medium Damage | Heavy Damage | Light DPS | Medium DPS | Heavy DPS |
 | --- | --- | --- | --- | --- | --- | --- |
-| MLE | 45 | 3x52 | 130% | 0.40 | 5.39 | 135% |
+| MLE | 396 | 279 | 205 | 65 | 45 | 33 |
 | SKC | 45 | 2x3x50 | 105% | 0.50 | 7.32 | 75% |
 
 And we get:
