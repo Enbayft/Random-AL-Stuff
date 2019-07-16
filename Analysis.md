@@ -27,20 +27,11 @@ When observing HE, one might be tempted to rely on it solely for every content. 
 Let’s use the 203mm Triple MLE from prototype research (PR) as our staple HE gun. We will refer to it as the MLE from now on until further notice. Conversely, we will use the 203mm Triple SKC from PR, referred to as the SKC until further notice. 
 
 The raw stats for the MLE are as follows:
-FP: 45
-DMG: 3x52
-Coefficient: 130%
-VT: 0.40s
-Reload: 5.39s
-Armor Mods: 1.35/0.95/0.70
 
-The raw stats for the SKC are as follows:
-FP: 45
-DMG: 2x3x50
-Coefficient: 1.05
-VT: 0.50s
-Reload: 7.32s
-Armor Mods: 0.75/1.1/0.75
+| Name | Firepower | Damage | Coefficient | Volley Time (s) | Reload (s) | Light Armor Mod | Medium Armor Mod | Heavy Armor Mod|
+| --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| MLE | 45 | 3x52 | 130% | 0.40 | 5.39 | 135% | 95% | 70% |
+| SKC | 45 | 2x3x50 | 105% | 0.50 | 7.32 | 75% | 110% | 75% |
 
 Their raw DPS are as follows:
 
