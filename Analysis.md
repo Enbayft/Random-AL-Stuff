@@ -33,14 +33,14 @@ The raw stats for both guns are as follows:
 | MLE | 45 | 3x52 | 130% | 0.40 | 5.39 | 135% | 95% | 70% |
 | SKC | 45 | 2x3x50 | 105% | 0.50 | 7.32 | 75% | 110% | 75% |
 
-At this point, one might prefer the SKC, but let’s pay attention to their armor mods, which are as follows:
+Then we calculate their damage/DPS to get:
 
 | Name | Light Damage | Medium Damage | Heavy Damage | Light DPS | Medium DPS | Heavy DPS |
 | --- | --- | --- | --- | --- | --- | --- |
 | MLE | 396 | 279 | 205 | 65 | 45 | 33 |
-| SKC | 45 | 2x3x50 | 105% | 0.50 | 7.32 | 75% |
+| SKC | 342 | 502 | 342 | 42 | 61 | 42 |
 
-And we get:
+In practice, both gun are fairly accurate. Thus we will not apply any modifiers.
 
 Which we notice the sudden change in specialization. This is where the differences between the two types come into player. Better mods in HE guns allow them to catch up drastically. Now the two guns are fit into two defined roles.
 
