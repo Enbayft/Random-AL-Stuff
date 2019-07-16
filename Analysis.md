@@ -40,9 +40,9 @@ Then we calculate their damage/DPS to get:
 | MLE | 396 | 279 | 205 | 65 | 45 | 33 |
 | SKC | 342 | 502 | 342 | 42 | 61 | 42 |
 
-In practice, both gun are fairly accurate. Thus we will not apply any modifiers.
+In practice, both guns are fairly accurate. Thus we will not apply any modifiers.
 
-Now we can observe distinctively what the roles of AP and HE are. HE are versatile guns focused on DPS. Notice that while they lack tremendously in terms of heavy damage compare to AP but translates to only 9 DPS points difference. Likewise AP are guns focused in raw damage, noting despite having terrible light mods of 75%, they (SKC) are 54 damage points off of MLE.
+Now we can observe distinctively what the roles of AP and HE are. HE guns focus on DPS. Notice that while they lack tremendously in terms of heavy damage compare to AP but translates to only 9 DPS points difference. Likewise AP guns focus on raw damage, noting despite having terrible light mods of 75%, they (SKC) are 54 damage points off of MLE.
 
 This is where the crucial discussion lays ahead of us. We can tell that HE and AP are specialized. But which is better and when should we use one over the other? We will use a few criteria: fleet composition, enemy makeup on a map, and level advantages. 
 
@@ -52,13 +52,13 @@ We will employ two different types of CAs, not because of their skills, but beca
 
 > We will disregard either CAs' skills. This is due to not only the random nature of their skills, but also how it doesn't provide any crucial data. The only purpose said skills provide is faster clear times _for both cases_. Or they induce too much randomness or variables that it doesn't provide any meaningful analysis.
 
-> We will also disregard barrage damage. While this leans in favor of the SKC as MLEs allow for faster barrage procs, we are focused only on gun performance. Thus while I urge you to consider barrage proc rate as a factor, it will not be factored in in considering each gun performance as a direct criterion.
+> We will also disregard barrage damage. While this leans in favor of the SKC as MLEs allow for faster barrage procs, we are focused only on gun performance. Thus, while I urge you to consider barrage proc rate as a factor, it will not be factored in in considering each gun performance as a direct criterion.
 
 # Main Analysis
 
 ## Preview
 
-While utiizing the raw base stats of the MLE and SKC are solid, we require more practical approaches in analyzing damage. Which is where Takao and Minneapolis come in. We will use their stats and their own coefficients (differing multiplier to the gun's own coefficient) to get the adjusted numbers. Following that, we will also use their secondary damage/DPS. We will also ignore critical damage.
+While utilizing the raw base stats of the MLE and SKC are solid, we require more practical approaches in analyzing damage. Which is where Takao and Minneapolis come in. We will use their stats and their own coefficients (differing multiplier to the gun's own coefficient) to get the adjusted numbers. Following that, we will also use their secondary damage/DPS. We will also ignore critical damage.
 
 This paper will not spend time in providing the various formulas and numbers. Such values can be grabbed from Azur Lane's EN wiki. Combat page for formulas. Each ships' individual pages for their values. And the various equipment pages for torpedo/secondary gun/auxiliary information.
 
@@ -86,6 +86,6 @@ Firing cycle here denotes the total time it takes to fire. That is, it involves 
 
 ## Initial HP Pool Clear Time Analysis
 
-We will assume a collective enemy health pool of 100,000. This pool will be split into light/medium/heavy armor proportionally four times. We assume that the CAs will focus on the light enemies first and then move to medium and finally to heavy. We will ignore any fleet composiition for this initial analysis. Pierce or burn will also be ignored.
+We will assume a collective enemy health pool of 100,000. This pool will be split into light/medium/heavy armor proportionally four times. We assume that the CAs will focus on the light enemies first and then move to medium and finally to heavy. We will ignore any fleet composition for this initial analysis. Pierce or burn will also be ignored.
 
 
