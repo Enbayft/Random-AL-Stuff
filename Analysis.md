@@ -71,6 +71,17 @@ MLE or SKC + 533mm Quintuple Torpedoes + 40mm STAAG + Type 94 Oxygen Torpedo + D
 2. Minneapolis
 MLE or SKC + 138.6mm Single MLE + 40mm STAAG + 2 Defensive Auxes (no offensive bonuses)
 
+Their damage values:
+
+| Name | Light Damage | Medium Damage | Heavy Damage | Firing Cycle (s) |
+| --- | --- | --- | --- | --- |
+| Takao MLE | 45 | 3x52 | 130% | 0.40 |
+| Takao SKC | 45 | 2x3x50 | 105% | 0.50 |
+| Takao 533mm | --- | --- | --- | --- |
+| Minneapolis MLE | --- | --- | --- | --- |
+| Minneapolis SKC | --- | --- | --- | --- |
+| Minneapolis 138.6mm | --- | --- | --- | --- |
+
 ## Initial HP Pool Clear Time Analysis
 
 We will assume a collective enemy health pool of 100,000. This pool will be split into light/medium/heavy armor proportionally four times. We assume that the CAs will focus on the light enemies first and then move to medium and finally to heavy. We will ignore any fleet composiition for this initial analysis. Pierce or burn will also be ignored.
