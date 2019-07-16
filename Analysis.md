@@ -48,7 +48,7 @@ This is where the crucial discussion lays ahead of us. We can tell that HE and A
 
 We will employ two different types of CAs, not because of their skills, but because of their equipment. In Azur Lane, we have Torp-CA which uses torpedoes as their secondaries. We also have Gun-CAs which have DD (destroyer) guns as their secondaries. Both classes offer interesting views on what to equip in addition to fleet composition, enemy make, and level advantage. We will use Takao (Torp-CA) and Minneapolis (Gun-CA). 
 
-## A disclaimer before we move forward:
+### A disclaimer before we move forward:
 
 > We will disregard either CAs' skills. This is due to not only the random nature of their skills, but also how it doesn't provide any crucial data. The only purpose said skills provide is faster clear times _for both cases_. Or they induce too much randomness or variables that it doesn't provide any meaningful analysis.
 
