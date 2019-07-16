@@ -75,12 +75,12 @@ Their damage values:
 
 | Name | Light Damage | Medium Damage | Heavy Damage | Firing Cycle (s) |
 | --- | --- | --- | --- | --- |
-| Takao MLE | 45 | 3x52 | 130% | 0.40 |
-| Takao SKC | 45 | 2x3x50 | 105% | 0.50 |
-| Takao 533mm | --- | --- | --- | --- |
-| Minneapolis MLE | --- | --- | --- | --- |
-| Minneapolis SKC | --- | --- | --- | --- |
-| Minneapolis 138.6mm | --- | --- | --- | --- |
+| Takao MLE | 1420 | 999 | 736 | 5.22 |
+| Takao SKC | 1283 | 1883 | 1283 | 6.93 |
+| Takao 533mm | 5350 | 6688 | 8695 | 22.45 |
+| Minneapolis MLE | 2997 | 2109 | 1554 | 5.64 |
+| Minneapolis SKC | 2710 | 3974 | 2710 | 7.46 |
+| Minneapolis 138.6mm | 303 | 151 | 151 | 1.81 |
 
 Firing cycle here denotes the total time it takes to fire. That is, it involves a CA's absolute cooldown, the gun's volley time, the reload modifier, and the gun's reload time.
 
