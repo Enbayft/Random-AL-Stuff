@@ -42,6 +42,13 @@ Then we calculate their damage/DPS to get:
 
 In practice, both gun are fairly accurate. Thus we will not apply any modifiers.
 
-Which we notice the sudden change in specialization. This is where the differences between the two types come into player. Better mods in HE guns allow them to catch up drastically. Now the two guns are fit into two defined roles.
+Now we can observe distinctively what the roles of AP and HE are. HE are versatile guns focused on DPS. Notice that while they lack tremendously in terms of heavy damage compare to AP but translates to only 9 DPS points difference. Likewise AP are guns focused in raw damage, noting despite having terrible light mods of 75%, they (SKC) are 54 damage points off of MLE.
 
-This is where the crucial discussion lays ahead of us. We can tell that HE and AP are specialized. But which is better and when should we use one over the other? We will use a few criteria: fleet composition, enemy makeup on a map, and level advantages.
+This is where the crucial discussion lays ahead of us. We can tell that HE and AP are specialized. But which is better and when should we use one over the other? We will use a few criteria: fleet composition, enemy makeup on a map, and level advantages. 
+
+We will employ two different types of CAs, not because of their skills, but because of their equipment. In Azur Lane, we have Torp-CA which uses torpedoes as their secondaries. We also have Gun-CAs which have DD (destroyer) guns as their secondaries. Both classes offer interesting views on what to equip in addition to fleet composition, enemy make, and level advantage. We will use Takao (Torp-CA) and Minneapolis (Gun-CA). 
+
+## A disclaimer before we move forward:
+
+> We will disregard either CAs' skills. This is due to not only the random nature of their skills, but also how it doesn't provide any crucial data. The only purpose said skills provide is faster clear times _for both cases_. Or they induce too much randomness or variables that it doesn't provide any meaningful analysis.
+> We will also disregard barrage damage. While this leans in favor of the SKC as MLEs allow for faster barrage procs, we are focused only on gun performance. Thus while I urge you to consider barrage proc rate as a factor, it will not be factored in in considering each gun performance as a direct criterion.
