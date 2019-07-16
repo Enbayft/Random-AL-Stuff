@@ -51,4 +51,5 @@ We will employ two different types of CAs, not because of their skills, but beca
 ## A disclaimer before we move forward:
 
 > We will disregard either CAs' skills. This is due to not only the random nature of their skills, but also how it doesn't provide any crucial data. The only purpose said skills provide is faster clear times _for both cases_. Or they induce too much randomness or variables that it doesn't provide any meaningful analysis.
+
 > We will also disregard barrage damage. While this leans in favor of the SKC as MLEs allow for faster barrage procs, we are focused only on gun performance. Thus while I urge you to consider barrage proc rate as a factor, it will not be factored in in considering each gun performance as a direct criterion.
