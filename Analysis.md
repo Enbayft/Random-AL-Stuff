@@ -11,7 +11,7 @@ Heavy cruiser guns (203mm) are burst-like guns in Azur Lane (AL). They are split
 
 This paper will be talking about what makes a good CA gun and when an AP or HE-type gun is appropriate in what context. It will also discuss unique exceptions. Do note that this paper will avoid discussing on an individual CA and their performance. It is strictly focused on the guns themselves unless it is heavily tied to a ship.
 
-## Introduction to AP and HE (skip if well-versed)
+# Introduction to AP and HE (skip if well-versed)
 AP guns focus on pure raw damage and focused on medium armor mods (modifiers). They are typically characterized by their slow speed but high alpha damage. Thus, even if they have only a slight better mod in heavy armor, the raw damage tends to allow them to push higher in the DPS points. They also are faster than HE guns with capability of piercing. Piercing in AL means the round will not dissipate on one enemy, but will travel until hitting another or evaporating. Enemies that receive the pierced round will be dealt full damage.
 
 Ex. Two ships are lined up in a line. A round hits the first and hits the second. The round does 50 damage. Both ships are dealt 50 damage.
@@ -54,4 +54,25 @@ We will employ two different types of CAs, not because of their skills, but beca
 
 > We will also disregard barrage damage. While this leans in favor of the SKC as MLEs allow for faster barrage procs, we are focused only on gun performance. Thus while I urge you to consider barrage proc rate as a factor, it will not be factored in in considering each gun performance as a direct criterion.
 
-# Fish
+# Main Analysis
+
+## Preview
+
+While utiizing the raw base stats of the MLE and SKC are solid, we require more practical approaches in analyzing damage. Which is where Takao and Minneapolis come in. We will use their stats and their own coefficients (differing multiplier to the gun's own coefficient) to get the adjusted numbers. Following that, we will also use their secondary damage/DPS. 
+
+This paper will not spend time in providing the various formulas and numbers. Such values can be grabbed from Azur Lane's EN wiki. Combat page for formulas. Each ships' individual pages for their values. And the various equipment pages for torpedo/secondary gun/auxiliary information.
+
+## Takao and Minneapolis
+
+We will equip both CAs accordingly:
+1. Takao
+MLE or SKC + 533mm Quintuple Torpedoes + 40mm STAAG + Type 94 Oxygen Torpedo + Defensive Aux (no offensive bonuses)
+
+2. Minneapolis
+MLE or SKC + 138.6mm Single MLE + 40mm STAAG + 2 Defensive Auxes (no offensive bonuses)
+
+## Initial HP Pool Clear Time Analysis
+
+We will assume a collective enemy health pool of 100,000. This pool will be split into light/medium/heavy armor proportionally four times. We assume that the CAs will focus on the light enemies first and then move to medium and finally to heavy. We will ignore any fleet composiition for this initial analysis. Pierce or burn will also be ignored.
+
+
