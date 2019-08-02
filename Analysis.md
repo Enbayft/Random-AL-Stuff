@@ -86,6 +86,35 @@ Firing cycle here denotes the total time it takes to fire. That is, it involves 
 
 ## Initial HP Pool Clear Time Analysis
 
-We will assume a collective enemy health pool of 100,000. This pool will be split into light/medium/heavy armor proportionally four times. We assume that the CAs will focus on the light enemies first and then move to medium and finally to heavy. We will ignore any fleet composition for this initial analysis. Pierce or burn will also be ignored.
+We will assume a collective enemy health pool of 100,000. This pool will be split into light/medium/heavy armor proportionally with multiple cases. We assume that the CAs will focus on the light enemies first and then move to medium and finally to heavy. We will ignore any fleet composition for this initial analysis. Pierce or burn will also be ignored.
 
+### Takao Clear Time
+| Light | Medium | Heavy | SKC | MLE |
+|-------|--------|-------|-----|-----|
+| 1     | 0      | 0     | 225 | 188 |
+| 0.9   | 0.1    | 0     | 210 | 189 |
+| 0.8   | 0.1    | 0.1   | 194 | 174 |
+| 0.8   | 0.2    | 0     | 203 | 184 |
+| 0.7   | 0.3    | 0     | 203 | 182 |
+| 0.6   | 0.2    | 0.2   | 181 | 168 |
+| 0.6   | 0.4    | 0     | 203 | 181 |
+| 0.5   | 0      | 0.5   | 197 | 180 |
+| 0.5   | 0.5    | 0     | 197 | 180 |
+| 0.4   | 0.3    | 0.3   | 180 | 160 |
+| 0.4   | 0.2    | 0.4   | 181 | 168 |
+| 0.4   | 0.4    | 0.2   | 181 | 159 |
+| 0.4   | 0.6    | 0     | 188 | 181 |
+| 0.3   | 0.4    | 0.3   | 181 | 160 |
+| 0.3   | 0.3    | 0.4   | 181 | 162 |
+| 0.3   | 0.7    | 0     | 181 | 182 |
+| 0.2   | 0.4    | 0.4   | 181 | 168 |
+| 0.2   | 0.6    | 0.2   | 166 | 168 |
+| 0.2   | 0.2    | 0.6   | 166 | 177 |
+| 0.2   | 0.8    | 0     | 180 | 190 |
+| 0.1   | 0.8    | 0.1   | 163 | 180 |
+| 0.1   | 0.1    | 0.8   | 163 | 167 |
+| 0.1   | 0.9    | 0     | 174 | 196 |
+| 0     | 0.5    | 0.5   | 168 | 180 |
+| 0     | 1      | 0     | 167 | 203 |
+| 0     | 0      | 1     | 167 | 180 |
 
