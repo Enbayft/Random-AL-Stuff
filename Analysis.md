@@ -153,3 +153,7 @@ We will assume a collective enemy health pool of 100,000. This pool will be spli
 ### Analysis Based On Table Data
 
 The Light/Medium/Heavy columns indicate how much of the HP pool is taken by said armor class. The SKC and MLE columns represent total clear time, measured in seconds.
+
+In terms of what is better or not:
+
+- MLE
