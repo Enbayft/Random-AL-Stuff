@@ -156,4 +156,6 @@ The Light/Medium/Heavy columns indicate how much of the HP pool is taken by said
 
 In terms of what is better or not:
 
-- MLE
+For Torp-CAs like Takao, they prefer HE guns heavily. It is only when there is a significant disparity in medium HP compared to other armor types that the SKC is the better option. That is, things begin to shift to the SKC's favor when there's 20% light, 60% medium, and 20% heavy. Any increase in medium or heavy and a decrease in light HP means the SKC is better.
+
+For Gun-CAs like Minneapolis, they prefer SKCs more. To note, at 60% light, 40% medium, and 0% heavy, MLEs are superior. Any increase in light % and a decrease in medium % means MLEs are better. When medium armor takes a significant proportion, heavy armor at a lesser degree, and light at a minority, SKCs win.
