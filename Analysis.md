@@ -90,7 +90,7 @@ We will assume a collective enemy health pool of 100,000. This pool will be spli
 
 ### Takao Clear Time
 #### Warning: Massive Tables. Skip if wanting to look at the post analysis
-| Light | Medium | Heavy | SKC | MLE |
+| Light | Medium | Heavy | SKC (s) | MLE (s) |
 |-------|--------|-------|-----|-----|
 | 1     | 0      | 0     | 225 | 188 |
 | 0.9   | 0.1    | 0     | 210 | 189 |
@@ -121,7 +121,7 @@ We will assume a collective enemy health pool of 100,000. This pool will be spli
 
 ### Minneapolis Clear Time
 #### Table warning
-| Light | Medium | Heavy | SKC | MLE |
+| Light | Medium | Heavy | SKC (s) | MLE (s) |
 |-------|--------|-------|-----|-----|
 | 1     | 0      | 0     | 187 | 147 |
 | 0.9   | 0.1    | 0     | 180 | 144 |
@@ -149,3 +149,7 @@ We will assume a collective enemy health pool of 100,000. This pool will be spli
 | 0     | 0.5    | 0.5   | 186 | 244 |
 | 0     | 1      | 0     | 157 | 215 |
 | 0     | 0      | 1     | 223 | 277 |
+
+### Analysis Based On Table Data
+
+The Light/Medium/Heavy columns indicate how much of the HP pool is taken by said armor class. The SKC and MLE columns represent total clear time, measured in seconds.
