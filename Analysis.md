@@ -84,7 +84,7 @@ Their damage values:
 
 Firing cycle here denotes the total time it takes to fire. That is, it involves a CA's absolute cooldown, the gun's volley time, the reload modifier, and the gun's reload time.
 
-## Initial HP Pool Clear Time Analysis
+## Initial HP Pool Clear Time Analysis for Solo CAs
 
 We will assume a collective enemy health pool of 100,000. This pool will be split into light/medium/heavy armor proportionally with multiple cases. We assume that the CAs will focus on the light enemies first and then move to medium and finally to heavy. We will ignore any fleet composition for this initial analysis. Pierce or burn will also be ignored.
 
@@ -159,3 +159,7 @@ In terms of what is better or not:
 For Torp-CAs like Takao, they prefer HE guns heavily. It is only when there is a significant disparity in medium HP compared to other armor types that the SKC is the better option. That is, things begin to shift to the SKC's favor when there's 20% light, 60% medium, and 20% heavy. Any increase in medium or heavy and a decrease in light HP means the SKC is better.
 
 For Gun-CAs like Minneapolis, they prefer SKCs more. To note, at 60% light, 40% medium, and 0% heavy, MLEs are superior. Any increase in light % and a decrease in medium % means MLEs are better. When medium armor takes a significant proportion, heavy armor at a lesser degree, and light at a minority, SKCs win.
+
+### Further Comments
+
+Before we move onto concerning ourselves with fleet compositions, we'll discuss our results in slighty more detail. Note that these are solo CAs. Gun-CAs don't change much in term of what is offered. But Torp-CAs here do heavily rely on their torpedoes for any enemies that aren't light. Thus particular caution should be paid attention to as the less amounts of torpedo hits there are, the more they will struggle against say medium enemies, thus favoring the SKC more than the MLE.
